@@ -64,5 +64,5 @@ class Rps:
                 # self.scoreboard()
 
 
-game = Rps(5)
+game = Rps(4)
 game.start()
